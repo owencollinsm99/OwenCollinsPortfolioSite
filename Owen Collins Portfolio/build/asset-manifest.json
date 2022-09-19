@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5797f2e1.css",
+    "main.js": "/portfolio/static/js/main.765de9e9.js",
+    "static/media/lead-bg.webp": "/portfolio/static/media/lead-bg.8cefc20eac95b41533a1.webp",
+    "static/media/glyphicons-halflings-regular.svg": "/portfolio/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/Owen Collins Software Engineer-1.webp": "/portfolio/static/media/Owen Collins Software Engineer-1.6a3bb777fe10c683fd80.webp",
+    "static/media/glyphicons-halflings-regular.ttf": "/portfolio/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/portfolio/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/portfolio/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/portfolio/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "static/media/SpearlineLogo.webp": "/portfolio/static/media/SpearlineLogo.a026836100f61a8cd36d.webp",
+    "index.html": "/portfolio/index.html",
+    "main.5797f2e1.css.map": "/portfolio/static/css/main.5797f2e1.css.map",
+    "main.765de9e9.js.map": "/portfolio/static/js/main.765de9e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5797f2e1.css",
+    "static/js/main.765de9e9.js"
+  ]
+}
